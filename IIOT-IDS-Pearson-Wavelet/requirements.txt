@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+joblib
+lightgbm==4.6.0
+tensorflow==2.19.0
+PyWavelets
+arabic-reshaper
+python-bidi
